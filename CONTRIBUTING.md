@@ -3,7 +3,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Contributing to the Awesome Yarn list](#contributing-to-the-awesome-yarn-list)
-- [Contributiongit -m " guidelines](#contributiongit--m--guidelines)
+- [Contribution guidelines](#contribution-guidelines)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -15,7 +15,7 @@ If you have any questions about the project or these guidelines, [open an issue]
 
 Most importantly, **enjoy yourself!** Don’t take this project _too_ seriously. While it is (*hopefully*) useful, there are more important things in life than some arbitrary list of links.
 
-# Contributiongit -m " guidelines
+# Contribution guidelines
 If you wish to add something to this list, make sure it meets the following criteria:
 
 * It should be something awesome relevant to Yarn (v2+)
