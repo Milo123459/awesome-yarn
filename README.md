@@ -1,4 +1,6 @@
+
 # Awesome Yarn [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+![](awesome-yarn.png)
 A curated list of awesome things for Yarn Berry (v2+).
 
 ## Yarn Berry
