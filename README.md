@@ -1,7 +1,7 @@
 
 # Awesome Yarn [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ![](awesome-yarn.png)
-A curated list of awesome things for Yarn Berry (v2+).
+A curated list of awesome resources, libraries and tools for Yarn Berry (v2+).
 
 ## Yarn Berry
 * Documentation can be viewed on the Yarn website [here](https://yarnpkg.com/).
