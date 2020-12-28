@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Awesome Yarn *](#awesome-yarn-)
+  - [Yarn Berry](#yarn-berry)
+  - [Plugins](#plugins)
+    - [Build Tools](#build-tools)
+  - [Articles](#articles)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 # Awesome Yarn [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ![](awesome-yarn.png)
