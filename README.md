@@ -9,9 +9,9 @@ Plugins are key to the modular architecture of Yarn Berry. Many plugins are "cor
 And (_as you'd expect_) there are Awesome third party plugins:
 
 ### Build Tools
-* [Yarn Build](https://yarn.build/): BUILD and BUNDLE your local workspaces. It's like Bazel, Buck and Pants but for Yarn.
+* [Yarn Build](https://yarn.build/) - BUILD and BUNDLE your local workspaces. It's like Bazel, Buck and Pants but for Yarn.
 
-* [Yarn Bump](https://github.com/cometkim/yarn-plugin-bump): Bump all dependencies in one simple command.
+* [Yarn Bump](https://github.com/cometkim/yarn-plugin-bump) - Bump all dependencies in one simple command.
 
 ## Articles
 * [A Star is born](https://dev.to/arcanis/introducing-yarn-2-4eh1)
